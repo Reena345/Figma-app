@@ -7,9 +7,9 @@ import line3 from "./assets/Vector 4.png";
 function HeroSection() {
   return (
     <div className="mt-5">
-      <div className="container col-xxl-8 px- py-5 ">
+      <div className="container col-xxl-12 px- py-5 ">
         <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
-          <div className="col-12  col-lg-6 position-relative   my-5 py-5 align-items-canter">
+          <div className="col-12  col-lg-6 position-relative   my-5 py-5 ">
             <img src={line} className="   img-fluid  " alt="Bike" />
             <img
               src={line3}
